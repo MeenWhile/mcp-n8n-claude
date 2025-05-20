@@ -1,6 +1,9 @@
 # Still developing...
 
-Reference from [https://www.youtube.com/watch?v=ZKNI1w7t0vs&t=572s](https://www.youtube.com/watch?v=bDAJ93Dr9Yc)
+Reference from:
+- [https://www.youtube.com/watch?v=bDAJ93Dr9Yc](https://www.youtube.com/watch?v=bDAJ93Dr9Yc)
+- [https://www.youtube.com/watch?v=Cdqzg4qY1UQ](https://www.youtube.com/watch?v=Cdqzg4qY1UQ)
+- [https://www.youtube.com/watch?v=Q345EQy3IRU&list=PL2NDx92_iOAHETh6uaTXl2gGO9EqRkwtO](https://www.youtube.com/watch?v=Q345EQy3IRU&list=PL2NDx92_iOAHETh6uaTXl2gGO9EqRkwtO)
 
 Thank you very much! m(_ _)m
 
@@ -15,3 +18,7 @@ Thank you very much! m(_ _)m
 # claude desktop
 
 1. download claude desktop
+
+# MCP google drive setup
+
+...
